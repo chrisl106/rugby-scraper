@@ -2,4 +2,5 @@ requests
 beautifulsoup4
 python-telegram-bot
 fuzzywuzzy
-python-Levenshtein  # Speeds up fuzzy matching
+python-Levenshtein
+python-dateutil
